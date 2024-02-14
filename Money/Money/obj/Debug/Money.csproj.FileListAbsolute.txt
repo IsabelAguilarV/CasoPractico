@@ -1,0 +1,38 @@
+E:\Angels\Proyectos\ControlMoney\Money\Money\bin\Debug\Money.exe.config
+E:\Angels\Proyectos\ControlMoney\Money\Money\bin\Debug\Money.exe
+E:\Angels\Proyectos\ControlMoney\Money\Money\bin\Debug\Money.pdb
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.csprojAssemblyReference.cache
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.Form1.resources
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.Properties.Resources.resources
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.csproj.GenerateResource.cache
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.exe
+E:\Angels\Proyectos\ControlMoney\Money\Money\obj\Debug\Money.pdb
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\bin\Debug\Money.exe.config
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\bin\Debug\Money.exe
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\bin\Debug\Money.pdb
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.Properties.Resources.resources
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.exe
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.pdb
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.FTipoIngreso.resources
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.Formularios.FTipoGasto.resources
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.Formularios.FPrincipal.resources
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.Formularios.FIngreso.resources
+C:\Users\HP\Downloads\Parte 3 - Proyecto\Money\Money\obj\Debug\Money.Formularios.FGastos.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\bin\Debug\Money.exe.config
+C:\Users\aguil\OneDrive\Documentos\Money\Money\bin\Debug\Money.exe
+C:\Users\aguil\OneDrive\Documentos\Money\Money\bin\Debug\Money.pdb
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.Formularios.FGastos.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.Formularios.FIngreso.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.Formularios.FPrincipal.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.FTipoIngreso.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.Properties.Resources.resources
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.csproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.exe
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.pdb
+C:\Users\aguil\OneDrive\Documentos\Money\Money\obj\Debug\Money.FTipoGasto.resources
